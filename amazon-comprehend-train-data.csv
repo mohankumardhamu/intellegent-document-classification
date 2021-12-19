@@ -1,0 +1,26 @@
+INVOICE,invoice
+INVOICE,bill to
+INVOICE,invoice date
+INVOICE,balance due
+INVOICE,invoice no
+INVOICE,Invoice #
+INVOICE,date
+INVOICE,due date
+INVOICE,total due
+BANK_STATEMENT,account statement
+BANK_STATEMENT,statement
+BANK_STATEMENT,balance
+BANK_STATEMENT,credit
+BANK_STATEMENT,debit
+BANK_STATEMENT,a.c. no
+BANK_STATEMENT,account summary
+BANK_STATEMENT,account details
+BANK_STATEMENT,account holder details
+BANK_STATEMENT,statement period
+BANK_STATEMENT,account no
+BANK_STATEMENT,account number
+BANK_STATEMENT,paid out
+BANK_STATEMENT,paid in
+AGREEMENT,agreement
+AGREEMENT,disclosing party
+AGREEMENT,receiving party

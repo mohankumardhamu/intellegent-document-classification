@@ -1,0 +1,22 @@
+{
+    "confusion_matrix": [
+        [
+            1,
+            0
+        ],
+        [
+            0,
+            1
+        ]
+    ],
+    "labels": [
+        "BANK_STATEMENT",
+        "INVOICE"
+    ],
+    "type": "multi_class",
+    "all_labels": [
+        "AGREEMENT",
+        "BANK_STATEMENT",
+        "INVOICE"
+    ]
+}
